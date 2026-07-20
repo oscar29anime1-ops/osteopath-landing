@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Бережные техники</title>
+  <g stroke="#405f56" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 25C27 21.5 21 17 21 11.5A6.5 6.5 0 0 1 32 7a6.5 6.5 0 0 1 11 4.5C43 17 37 21.5 32 25Z"/>
+    <path d="M28 54V43L17 32a4 4 0 0 0-6 5l9 10"/>
+    <path d="M11 37 7 33V20a4 4 0 0 0-4 4v16l13 14v5"/>
+    <path d="M36 54V43l11-11a4 4 0 0 1 6 5l-9 10"/>
+    <path d="m53 37 4-4V20a4 4 0 0 1 4 4v16L48 54v5"/>
+  </g>
+</svg>

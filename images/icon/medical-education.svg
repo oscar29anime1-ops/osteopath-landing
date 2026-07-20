@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Медицинское образование</title>
+  <g stroke="#405f56" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 22 31.5 8 59 22 31.5 36 5 22Z"/>
+    <path d="M14 27v14c10 8 25 8 35 0V27"/>
+    <path d="m22 17 27 14v17"/>
+    <circle cx="49" cy="52" r="3"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Забота и поддержка</title>
+  <desc id="desc">Сердце над двумя поддерживающими ладонями</desc>
+
+  <g stroke="currentColor" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 199C223 176 150 126 150 72C150 38 174 15 207 15C229 15 246 27 256 43C266 27 283 15 305 15C338 15 362 38 362 72C362 126 289 176 256 199Z"/>
+
+    <path d="M119 497V458L15 354V96H21C50 96 74 120 74 149V257C74 269 79 280 87 288L153 354"/>
+    <path d="M74 257L86 237C94 223 113 221 125 233L256 364V497"/>
+
+    <path d="M393 497V458L497 354V96H491C462 96 438 120 438 149V257C438 269 433 280 425 288L359 354"/>
+    <path d="M438 257L426 237C418 223 399 221 387 233L256 364"/>
+  </g>
+</svg>

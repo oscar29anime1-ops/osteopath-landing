@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Рекомендации после приёма</title>
+  <g stroke="#405f56" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 17c0-7 6-12 14-12s14 5 14 12-6 12-14 12c-2 0-4-.3-5.7-1L34 31l1.8-6C33.4 22.8 32 20 32 17Z"/>
+    <path d="M35 34c0 7-6 12-14 12-2 0-4-.3-5.7-1L9 48l1.8-6C8.4 39.8 7 37 7 34c0-7 6-12 14-12 3 0 5.7.7 8 2"/>
+    <circle cx="40" cy="17" r="1" fill="#405f56" stroke="none"/>
+    <circle cx="46" cy="17" r="1" fill="#405f56" stroke="none"/>
+    <circle cx="52" cy="17" r="1" fill="#405f56" stroke="none"/>
+    <circle cx="15" cy="34" r="1" fill="#405f56" stroke="none"/>
+    <circle cx="21" cy="34" r="1" fill="#405f56" stroke="none"/>
+    <circle cx="27" cy="34" r="1" fill="#405f56" stroke="none"/>
+  </g>
+</svg>
